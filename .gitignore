@@ -1,0 +1,9 @@
+
+.dev/*
+src/dev
+src/policingmp_sirens2/stuff
+*.vsidx
+*.lock
+*.sqlite
+.vs/VSWorkspaceState.json
+.vs/BozLights/v17/.wsuo
